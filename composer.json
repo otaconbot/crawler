@@ -1,0 +1,21 @@
+{
+    "name": "krzysztofsadowski/Crawler",
+    "description": "Simple search engline crawler",
+    "license": "MIT",
+    "keywords": ["cralwer"],
+    "authors": [
+        {
+            "name": "Krzysztof Sadowski",
+            "email": "otaconbot@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "KrzysztofSadowski\\Crawler\\": "src"
+        }
+    }
+}
